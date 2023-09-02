@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /comunica-openai
+
+chatgpt:
+  api-key: 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
